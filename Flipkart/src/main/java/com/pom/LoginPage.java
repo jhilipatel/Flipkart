@@ -51,7 +51,9 @@ public class LoginPage
 	}
 
 	public WebElement getSearchButton() {
-		return SearchButton;
+		return SearchButton;                //gitbash changes
 	}	
 	
 }
+
+
